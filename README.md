@@ -75,7 +75,3 @@ sudo python3 /home/pi/pi-camera-stream-flask/main.py
 
 This would cause the following terminal command to auto-start each time the Raspberry Pi boots up. This in effect creates a headless setup - which would be accessed via SSH. 
 Note: make sure SSH is enabled.
-
-## Download Beta image of Raspberry Pi Camera Stream
-Any troubles installing, try out the already compiled Raspberry Pi (Raspbian OS) Image of [Raspberry Pi Camera Stream](https://smartbuilds.io).
-![Raspbian Camera Stream Image](img/readme/[].png)

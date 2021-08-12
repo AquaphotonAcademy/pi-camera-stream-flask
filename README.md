@@ -75,3 +75,6 @@ sudo python3 /home/pi/pi-camera-stream-flask/main.py
 
 This would cause the following terminal command to auto-start each time the Raspberry Pi boots up. This in effect creates a headless setup - which would be accessed via SSH. 
 Note: make sure SSH is enabled.
+
+## TODO:
+- Adding Option For multiple cameras stream (Multithreading / HTML 'Flask'  )

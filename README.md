@@ -9,6 +9,8 @@ The Pi streams the output of the camera module over the web via Flask. Devices c
 <raspberry_pi_ip:5000> 
 ```
 
+For details watch this [video](https://www.youtube.com/watch?v=zfBHD4v8hD0)
+
 ## Screenshots
 | ![Setup](readme/pi-stream-client.jpg) | ![Live Pi Camera Stream](readme/pi-stream-screen-capture.jpg) |
 |---|---|
